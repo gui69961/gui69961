@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:3fb950&height=220&section=header&text=Guilherme%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Full%20Stack&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,6 @@ class Guilherme:
         self.funcao    = "Desenvolvedor de Software | Full Stack"
         self.localizacao = "São Paulo, Brasil 🇧🇷"
         self.foco_atual  = ["React", "JavaScript", "Python", "SQL"]
-        self.aprendendo  = ["Projetos full stack", "Boas práticas", "Estruturas de dados"]
         self.objetivo    = "Construir produtos que resolvam problemas reais"
 
     def me_conheca(self):
@@ -73,16 +72,15 @@ class Guilherme:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🏆 Conquistas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gui69961&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui69961&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-profile-trophy.vercel.app/?username=gui69961&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=gui69961&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gui69961&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" />
 
 </div>
 
