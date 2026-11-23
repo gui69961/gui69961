@@ -30,9 +30,8 @@ class Guilherme:
 ```
 
 - 🔭 Trabalhando em projetos **full stack** com JavaScript e React
-- 📐 Estudando **matemática, algoritmos e estruturas de dados** com Python, C e C++
+- 📐 Estudando **cálculo, algoritmos e estruturas de dados** com Python, C e C++
 - 💬 Pergunte-me sobre **HTML, CSS, Python, JavaScript e SQL**
-- ⚡ Curiosidade: programo com música alta e café por perto ☕
 
 ---
 
@@ -40,16 +39,7 @@ class Guilherme:
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff1a1a)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff1a1a)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ff1a1a)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff1a1a)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff1a1a)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff1a1a)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ff1a1a)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff1a1a)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff1a1a)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,mysql,git,github,vscode&perline=11" />
 
 </div>
 
