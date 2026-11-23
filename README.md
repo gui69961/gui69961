@@ -61,9 +61,8 @@ class Guilherme:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" /></a>
-<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff1a1a" /></a>
-<a href="https://instagram.com/SEU-INSTA"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff1a1a" /></a>
+<a href="https://www.linkedin.com/in/guilherme-pro%C3%A7a-6bb883387/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" /></a>
+<a href="mailto:proencaguilherme582@gmail.com?subject=Ol%C3%A1%20Guilherme!"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff1a1a" /></a>
 
 <br/><br/>
 
