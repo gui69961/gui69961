@@ -64,7 +64,7 @@ class Guilherme:
 | [**LAB02-React-Web**](https://github.com/gui69961/LAB02-React-Web) | Laboratório de desenvolvimento web com React | ![JS](https://img.shields.io/badge/-JavaScript-b30000?logo=javascript&logoColor=white) |
 | [**fundamentos-2025**](https://github.com/gui69961/fundamentos-2025) | Códigos da disciplina de fundamentos de algoritmos | ![Python](https://img.shields.io/badge/-Python-b30000?logo=python&logoColor=white) |
 | [**Feifood**](https://github.com/gui69961/Feifood) | Projeto desenvolvido em C | ![C](https://img.shields.io/badge/-C-b30000?logo=c&logoColor=white) |
-| [**ficha**](https://github.com/gui69961/ficha) | marketplace desenvolvido com HTML, CSS e JS |
+| [**ficha**](https://github.com/gui69961/ficha) | Marketplace desenvolvido com HTML, CSS e JS |
 
 ---
 
