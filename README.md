@@ -59,12 +59,12 @@ class Guilherme:
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
+| [**feifood-py-api**](https://github.com/gui69961/feifood-py-api) | API de pedidos de comida com microsserviços, testes automatizados e CI | ![Python](https://img.shields.io/badge/-Python-b30000?logo=python&logoColor=white) |
 | [**Disciplina-Java-Orientado-a-Objetos**](https://github.com/gui69961/Disciplina-Java-Orientado-a-Objetos) | 10 laboratórios de POO: herança, polimorfismo, interfaces, exceções e mais | ![Java](https://img.shields.io/badge/-Java-b30000?logo=openjdk&logoColor=white) |
 | [**FULL-STACK**](https://github.com/gui69961/FULL-STACK) | Estudos e projetos de desenvolvimento full stack | ![JS](https://img.shields.io/badge/-JavaScript-b30000?logo=javascript&logoColor=white) |
 | [**LAB02-React-Web**](https://github.com/gui69961/LAB02-React-Web) | Laboratório de desenvolvimento web com React | ![JS](https://img.shields.io/badge/-JavaScript-b30000?logo=javascript&logoColor=white) |
 | [**fundamentos-2025**](https://github.com/gui69961/fundamentos-2025) | Códigos da disciplina de fundamentos de algoritmos | ![Python](https://img.shields.io/badge/-Python-b30000?logo=python&logoColor=white) |
-| [**Feifood**](https://github.com/gui69961/Feifood) | Projeto desenvolvido em C | ![C](https://img.shields.io/badge/-C-b30000?logo=c&logoColor=white) |
-| [**ficha**](https://github.com/gui69961/ficha) | Marketplace desenvolvido com HTML, CSS e JS |
+| [**ficha**](https://github.com/gui69961/ficha) | Marketplace gamer com carrinho de compras, busca e categorias de produtos | ![HTML CSS JS](https://img.shields.io/badge/-HTML%20%7C%20CSS%20%7C%20JS-b30000?logo=javascript&logoColor=white) |
 
 ---
 
