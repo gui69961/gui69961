@@ -29,7 +29,7 @@
 ```python
 class Guilherme:
     def __init__(self):
-        self.funcao      = "Desenvolvedor de Software | Full Stack"
+        self.funcao      = "Desenvolvedor de Software "
         self.localizacao = "São Paulo, Brasil 🇧🇷"
         self.foco_atual  = ["Java", "React", "JavaScript", "Python", "SQL"]
         self.objetivo    = "Construir produtos que resolvam problemas reais"
